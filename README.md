@@ -13,7 +13,7 @@ This was a small school project. The goal of the project was to use Vue for the 
 - Use Sass and Bootstrap in some way. 
 - Make a computed property, a watch and a custom event. 
 - Use Vuex in strict mode and use a mutation. 
-- Use Prettier and ESlint. 
+- Use Prettier and ESLint. 
 
 Feel free to check it out!
 
