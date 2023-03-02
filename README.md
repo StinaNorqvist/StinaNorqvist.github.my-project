@@ -1,7 +1,7 @@
 # Fishy 🐟
 
 ## Information
-This was a small school project. The goal of the project was to use Vue for the first time and include some different features just to try it out. The most important part of the project was making sure all the features was used at least once and working as intended so the design of the project was not a priority for me . 
+This was a small school project. The goal of the project was to use Vue for the first time and include some different features just to try it out. The most important part of the project was making sure all the features was used at least once and working as intended so the design of the project was not a priority.
 
 ## See the website
 [Click here to check out the website!](https://stinanorqvist.github.io/#/)
